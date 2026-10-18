@@ -1,6 +1,6 @@
 -- Clientes de prueba
-INSERT INTO clientes (id, nombre, tipo_cliente, nit) VALUES (1, 'Empresa VIP S.A.S.', 'VIP', '900123456-1');
-INSERT INTO clientes (id, nombre, tipo_cliente, nit) VALUES (2, 'Comprador Frecuente', 'FRECUENTE', '900987654-2');
+INSERT INTO clientes (id, nombre, tipo_cliente, nit) VALUES (1, 'Empresa VIP S.A.S.', 'VIP', NULL);
+INSERT INTO clientes (id, nombre, tipo_cliente, nit) VALUES (2, 'Comprador Frecuente', 'FRECUENTE', NULL);
 INSERT INTO clientes (id, nombre, tipo_cliente, nit) VALUES (3, 'Cliente Regular', 'ESTANDAR', NULL);
 INSERT INTO clientes (id, nombre, tipo_cliente, nit) VALUES (4, 'Cliente Moroso con Deuda', 'MOROSO', NULL);
 INSERT INTO clientes (id, nombre, tipo_cliente, nit) VALUES (5, 'Cliente Corporativo', 'ESTANDAR', '800555444-3');
